@@ -69,4 +69,3 @@ public class TLSSocketFactory extends SSLSocketFactory {
         }
         return socket;
     }
-}
